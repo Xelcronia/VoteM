@@ -1,0 +1,6 @@
+name: VoteM
+description: Sends a message to the player when they say vote in chat
+main: Xelcronia\Main\Main
+author: Xelcronia
+api: 2.0.0
+version: 1.0
