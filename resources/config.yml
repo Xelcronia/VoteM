@@ -2,8 +2,8 @@
 # Add your how-to and where-to messages below
 
 vote-hw: "true"
-message-how: "Add your how to vote message "
-message-where: "Add your where to vote message"
+message-how: "§bAdd your how to vote message "
+message-where: "§bAdd your where to vote message"
 
 
 # Set vote to true if you want a message to appear whenever a player types 'vote'
